@@ -1,8 +1,8 @@
-
+#welcome to github page
 <!DOCTYPE html>
 <html>
 <head>
-    <title>welcome to My Github page </title>
+    <title>welcome </title>
 </head>
 <body>    
     <h1> welcome to IIT CSM-SVCET website </h1>
